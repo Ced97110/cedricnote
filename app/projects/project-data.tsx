@@ -7,24 +7,24 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Project One",
+    title: "Broadwalk - UI/RAG implementation",
     year: 2023,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+      "Broadwalk is ",
+    url: "https://broadwalk.ai/",
   },
   {
-    title: "Project Two",
-    year: 2022,
+    title: "Inspirame - UI",
+    year: 2024,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+      "A website built with Next.js, tailwinf and framer-motion for Inspirame. I created this website with the intention of mirroring the company values",
+    url: "https://inspirame.com/",
   },
   {
-    title: "Project Three",
-    year: 2021,
+    title: "EdTechQuity - UI",
+    year: 2024,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+    url: "https://edtechquity.net/",
   },
 ];
